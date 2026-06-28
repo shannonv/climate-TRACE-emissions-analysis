@@ -1,0 +1,23 @@
+# Core data analysis
+
+pandas
+numpy
+matplotlib
+
+# Machine learning
+
+scikit-learn
+
+# GIS (optional)
+
+geopandas
+
+# Dashboard
+
+# Power BI Desktop (not installable via pip)
+
+# Standard library modules used (included with Python)
+
+# pathlib
+
+# os
