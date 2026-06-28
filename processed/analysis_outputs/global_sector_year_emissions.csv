@@ -1,0 +1,100 @@
+year,sector,sector_clean,emissions
+2015,agriculture,Agriculture,6841724783.778669
+2015,buildings,Buildings,3925574467.332427
+2015,fluorinated-gases,Fluorinated Gases,1156535942.7710536
+2015,fossil-fuel-operations,Fossil Fuel Operations,8795659459.219164
+2015,manufacturing,Manufacturing,9805347512.71395
+2015,mineral-extraction,Mineral Extraction,155418231.25965616
+2015,power,Power,13914990451.903986
+2015,transportation,Transportation,7710953693.920379
+2015,waste,Waste,1764123606.7385738
+2016,agriculture,Agriculture,6886196720.064519
+2016,buildings,Buildings,3951776002.169635
+2016,fluorinated-gases,Fluorinated Gases,1213072050.2467885
+2016,fossil-fuel-operations,Fossil Fuel Operations,8742127604.17178
+2016,manufacturing,Manufacturing,9805032457.634594
+2016,mineral-extraction,Mineral Extraction,147870202.4982351
+2016,power,Power,13912135289.674276
+2016,transportation,Transportation,8150008745.978465
+2016,waste,Waste,1792758854.098595
+2017,agriculture,Agriculture,6889354782.422412
+2017,buildings,Buildings,4011942101.6975174
+2017,fluorinated-gases,Fluorinated Gases,1281136293.0956504
+2017,fossil-fuel-operations,Fossil Fuel Operations,8941027631.757473
+2017,manufacturing,Manufacturing,9878929373.551361
+2017,mineral-extraction,Mineral Extraction,143384778.362909
+2017,power,Power,14223973607.64876
+2017,transportation,Transportation,8360979047.001452
+2017,waste,Waste,1827921892.5260816
+2018,agriculture,Agriculture,6894258748.841435
+2018,buildings,Buildings,4008938444.5249457
+2018,fluorinated-gases,Fluorinated Gases,1349388187.220505
+2018,fossil-fuel-operations,Fossil Fuel Operations,9081661053.000105
+2018,manufacturing,Manufacturing,9919615124.566427
+2018,mineral-extraction,Mineral Extraction,151613688.09620485
+2018,power,Power,14699392142.282368
+2018,transportation,Transportation,8656609424.638945
+2018,waste,Waste,1867584966.966362
+2019,agriculture,Agriculture,6991192117.886142
+2019,buildings,Buildings,3937153007.7710023
+2019,fluorinated-gases,Fluorinated Gases,1405845831.0084763
+2019,fossil-fuel-operations,Fossil Fuel Operations,9176852143.244568
+2019,manufacturing,Manufacturing,10123104344.98515
+2019,mineral-extraction,Mineral Extraction,160355298.7967483
+2019,power,Power,14567677475.18973
+2019,transportation,Transportation,8751142171.129185
+2019,waste,Waste,1900976878.2757802
+2020,agriculture,Agriculture,7117297807.846333
+2020,buildings,Buildings,3875495366.454038
+2020,fluorinated-gases,Fluorinated Gases,1466233136.6072276
+2020,fossil-fuel-operations,Fossil Fuel Operations,8667786322.647156
+2020,manufacturing,Manufacturing,10200391901.764233
+2020,mineral-extraction,Mineral Extraction,199768448.4160145
+2020,power,Power,14155862989.79501
+2020,transportation,Transportation,7632448490.614372
+2020,waste,Waste,1927098180.8388278
+2021,agriculture,Agriculture,7232742706.75679
+2021,buildings,Buildings,3916362780.614324
+2021,fluorinated-gases,Fluorinated Gases,1535975637.313895
+2021,fossil-fuel-operations,Fossil Fuel Operations,9027152301.478025
+2021,manufacturing,Manufacturing,10388609804.974798
+2021,mineral-extraction,Mineral Extraction,196989521.3245189
+2021,power,Power,15236235233.77693
+2021,transportation,Transportation,8190194537.375338
+2021,waste,Waste,1961020151.9253094
+2022,agriculture,Agriculture,7278506195.729332
+2022,buildings,Buildings,3920097522.881915
+2022,fluorinated-gases,Fluorinated Gases,1604932276.9188178
+2022,fossil-fuel-operations,Fossil Fuel Operations,9304292937.212843
+2022,manufacturing,Manufacturing,10220446418.135954
+2022,mineral-extraction,Mineral Extraction,208774920.54201737
+2022,power,Power,15468413849.236443
+2022,transportation,Transportation,8603062894.375395
+2022,waste,Waste,1992912076.4225116
+2023,agriculture,Agriculture,7310847334.913646
+2023,buildings,Buildings,3951245834.0106034
+2023,fluorinated-gases,Fluorinated Gases,1671810952.3438087
+2023,fossil-fuel-operations,Fossil Fuel Operations,9462276038.195864
+2023,manufacturing,Manufacturing,10336724897.984507
+2023,mineral-extraction,Mineral Extraction,213865921.644624
+2023,power,Power,15771523393.88972
+2023,transportation,Transportation,8902077143.78757
+2023,waste,Waste,2019101645.7070754
+2024,agriculture,Agriculture,7319648965.64707
+2024,buildings,Buildings,3995307669.8527255
+2024,fluorinated-gases,Fluorinated Gases,1740010882.4873443
+2024,fossil-fuel-operations,Fossil Fuel Operations,9426399082.177189
+2024,manufacturing,Manufacturing,10274816904.788984
+2024,mineral-extraction,Mineral Extraction,202155116.40614647
+2024,power,Power,16015840989.939226
+2024,transportation,Transportation,9187171503.85849
+2024,waste,Waste,2030810990.473398
+2025,agriculture,Agriculture,7315865232.193117
+2025,buildings,Buildings,4039159494.1148796
+2025,fluorinated-gases,Fluorinated Gases,1740010882.4873443
+2025,fossil-fuel-operations,Fossil Fuel Operations,9477681655.911997
+2025,manufacturing,Manufacturing,10255906428.454983
+2025,mineral-extraction,Mineral Extraction,202155114.40936399
+2025,power,Power,16049797591.939226
+2025,transportation,Transportation,9283171449.27406
+2025,waste,Waste,2036225378.7445302

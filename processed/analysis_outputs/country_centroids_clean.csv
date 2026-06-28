@@ -1,0 +1,205 @@
+OBJECTID,Shape,Country Name,iso3_country,Continent,LAND_TYPE,Land Rank,Affiliated Country,ORIG_FID,centroid_lon,centroid_lat
+1,Point,Afghanistan,AFG,Asia,Primary land,5,Afghanistan,1,66.065186,33.910354
+2,Point,Albania,ALB,Europe,Primary land,5,Albania,2,20.064043,41.150428
+7,Point,Algeria,DZA,Africa,Primary land,5,Algeria,7,2.673574,28.420827
+10,Point,American Samoa,ASM,Oceania,Primary land,5,United States,10,-170.718087,-14.300667
+11,Point,Andorra,AND,Europe,Primary land,5,Andorra,11,1.575995,42.545321
+13,Point,Angola,AGO,Africa,Primary land,5,Angola,13,17.580573,-12.395574
+15,Point,Anguilla,AIA,North America,Primary land,5,United Kingdom,15,-63.184773,18.266723
+19,Point,Antarctica,ATA,Antarctica,Primary land,5, ,19,9.126129,-85.893766
+24,Point,Antigua and Barbuda,ATG,North America,Primary land,5,Antigua and Barbuda,24,-61.798213,17.077124
+25,Point,Argentina,ARG,South America,Primary land,5,Argentina,25,-65.388993,-36.330264
+29,Point,Armenia,ARM,Asia,Primary land,5,Armenia,29,44.934642,40.302028
+32,Point,Australia,AUS,Australia,Primary land,5,Australia,32,134.439731,-26.0228
+35,Point,Austria,AUT,Europe,Primary land,5,Austria,35,14.149325,47.597077
+37,Point,Azerbaijan,AZE,Asia,Primary land,5,Azerbaijan,37,47.64852,40.372487
+44,Point,Bahamas,BHS,North America,Primary land,5,Bahamas,44,-78.059549,24.690036
+47,Point,Bahrain,BHR,Asia,Primary land,5,Bahrain,47,50.545714,26.056253
+49,Point,Bangladesh,BGD,Asia,Primary land,5,Bangladesh,49,90.294903,24.056008
+53,Point,Barbados,BRB,North America,Primary land,5,Barbados,53,-59.53535,13.13825
+54,Point,Belarus,BLR,Europe,Primary land,5,Belarus,54,28.058526,53.588796
+55,Point,Belgium,BEL,Europe,Primary land,5,Belgium,55,4.657523,50.646638
+58,Point,Belize,BLZ,North America,Primary land,5,Belize,58,-88.705737,17.204345
+60,Point,Benin,BEN,Africa,Primary land,5,Benin,60,2.336506,9.674147
+64,Point,Bhutan,BTN,Asia,Primary land,5,Bhutan,64,90.420049,27.423131
+65,Point,Bolivia,BOL,South America,Primary land,5,"Bolivia, Plurinational State of",65,-64.658406,-16.778019
+67,Point,Bosnia and Herzegovina,BIH,Europe,Primary land,5,Bosnia and Herzegovina,67,17.783057,44.177681
+69,Point,Botswana,BWA,Africa,Primary land,5,Botswana,69,23.809296,-22.235609
+74,Point,Brazil,BRA,South America,Primary land,5,Brazil,74,-53.04823,-11.239404
+81,Point,Brunei Darussalam,BRN,Asia,Primary land,5,Brunei Darussalam,81,114.630308,4.495893
+84,Point,Bulgaria,BGR,Europe,Primary land,5,Bulgaria,84,25.238437,42.769325
+86,Point,Burkina Faso,BFA,Africa,Primary land,5,Burkina Faso,86,-1.738338,12.285166
+87,Point,Burundi,BDI,Africa,Primary land,5,Burundi,87,29.891137,-3.366465
+90,Point,Cabo Verde,CPV,Africa,Primary land,5,Cabo Verde,90,-23.624718,15.083707
+92,Point,Cambodia,KHM,Asia,Primary land,5,Cambodia,92,104.919447,12.731108
+96,Point,Cameroon,CMR,Africa,Primary land,5,Cameroon,96,12.754563,5.715832
+99,Point,Canada,CAN,North America,Primary land,5,Canada,99,-119.657016,60.728167
+108,Point,Central African Republic,CAF,Africa,Primary land,5,Central African Republic,108,20.939645,7.01329
+109,Point,Chad,TCD,Africa,Primary land,5,Chad,109,18.672541,15.483356
+111,Point,Chile,CHL,South America,Primary land,5,Chile,111,-71.396727,-37.358916
+114,Point,China,CHN,Asia,Primary land,5,China,114,104.167414,32.825963
+124,Point,Colombia,COL,South America,Primary land,5,Colombia,124,-73.076011,3.922438
+129,Point,Congo,COG,Africa,Primary land,5,Congo,129,15.220475,-0.841257
+131,Point,Congo DRC,COD,Africa,Primary land,5,"Congo, The Democratic Republic of the",131,23.658774,-2.903371
+137,Point,Costa Rica,CRI,North America,Primary land,5,Costa Rica,137,-84.197902,9.973333
+140,Point,Côte d'Ivoire,CIV,Africa,Primary land,5,Côte d'Ivoire,140,-5.558293,7.638993
+145,Point,Croatia,HRV,Europe,Primary land,5,Croatia,145,17.958028,45.452965
+148,Point,Cuba,CUB,North America,Primary land,5,Cuba,148,-76.83649,20.620027
+152,Point,Cyprus,CYP,Asia,Primary land,5,Cyprus,152,33.227481,35.051173
+154,Point,Czech Republic,CZE,Europe,Primary land,5,Czechia,154,15.328455,49.747879
+158,Point,Denmark,DNK,Europe,Primary land,5,Denmark,158,9.302867,56.043233
+159,Point,Djibouti,DJI,Africa,Primary land,5,Djibouti,159,42.183194,11.561636
+162,Point,Dominica,DMA,North America,Primary land,5,Dominica,162,-61.349967,15.434509
+165,Point,Dominican Republic,DOM,North America,Primary land,5,Dominican Republic,165,-70.499287,18.900252
+166,Point,Ecuador,ECU,South America,Primary land,5,Ecuador,166,-78.101636,-1.181744
+170,Point,Egypt,EGY,Africa,Primary land,5,Egypt,170,29.504567,26.443478
+173,Point,El Salvador,SLV,North America,Primary land,5,El Salvador,173,-88.869335,13.737988
+176,Point,Equatorial Guinea,GNQ,Africa,Primary land,5,Equatorial Guinea,176,10.476418,1.567655
+180,Point,Eritrea,ERI,Africa,Primary land,5,Eritrea,180,38.109334,16.137514
+183,Point,Estonia,EST,Europe,Primary land,5,Estonia,183,25.835334,58.69455
+187,Point,Eswatini,SWZ,Africa,Primary land,5,Eswatini,187,31.497714,-26.567785
+188,Point,Ethiopia,ETH,Africa,Primary land,5,Ethiopia,188,39.630259,8.662219
+196,Point,Fiji,FJI,Oceania,Primary land,5,Fiji,196,177.965256,-17.83655
+200,Point,Finland,FIN,Europe,Primary land,5,Finland,200,23.310632,61.982554
+202,Point,France,FRA,Europe,Primary land,5,France,202,2.454616,46.744419
+205,Point,French Guiana,GUF,South America,Primary land,5,France,205,-53.236256,3.921854
+216,Point,Gabon,GAB,Africa,Primary land,5,Gabon,216,11.822319,-0.597304
+219,Point,Gambia,GMB,Africa,Primary land,5,Gambia,219,-14.548,13.486313
+223,Point,Georgia,GEO,Asia,Primary land,5,Georgia,223,43.37194,42.053109
+226,Point,Germany,DEU,Europe,Primary land,5,Germany,226,10.418389,51.129771
+231,Point,Ghana,GHA,Africa,Primary land,5,Ghana,231,-1.208979,7.978433
+232,Point,Gibraltar,GIB,Europe,Primary land,5,United Kingdom,232,-5.348749,36.135827
+234,Point,Greece,GRC,Europe,Primary land,5,Greece,234,22.593398,39.511578
+237,Point,Greenland,GRL,North America,Primary land,5,Denmark,237,-41.06752,77.367079
+242,Point,Grenada,GRD,North America,Primary land,5,Grenada,242,-61.683657,12.113705
+245,Point,Guadeloupe,GLP,North America,Primary land,5,France,245,-61.650355,16.144628
+248,Point,Guam,GUM,Oceania,Primary land,5,United States,248,144.702958,13.357712
+251,Point,Guatemala,GTM,North America,Primary land,5,Guatemala,251,-91.23528,15.007994
+254,Point,Guinea,GIN,Africa,Primary land,5,Guinea,254,-11.278,11.007258
+257,Point,Guinea-Bissau,GNB,Africa,Primary land,5,Guinea-Bissau,257,-14.403146,12.121947
+260,Point,Guyana,GUY,South America,Primary land,5,Guyana,260,-58.977218,4.794074
+263,Point,Haiti,HTI,North America,Primary land,5,Haiti,263,-72.336803,18.403993
+270,Point,Honduras,HND,North America,Primary land,5,Honduras,270,-86.618266,14.820449
+272,Point,Hungary,HUN,Europe,Primary land,5,Hungary,272,19.421,47.176987
+273,Point,Iceland,ISL,Europe,Primary land,5,Iceland,273,-18.582112,65.013305
+276,Point,India,IND,Asia,Primary land,5,India,276,79.600788,23.253215
+284,Point,Indonesia,IDN,Asia,Primary land,5,Indonesia,284,113.998949,-0.206003
+285,Point,Iran,IRN,Asia,Primary land,5,"Iran, Islamic Republic of",285,54.221342,32.761133
+289,Point,Iraq,IRQ,Asia,Primary land,5,Iraq,289,43.750912,33.118962
+291,Point,Ireland,IRL,Europe,Primary land,5,Ireland,291,-8.144111,53.206051
+298,Point,Israel,ISR,Asia,Primary land,5,Israel,298,34.617965,31.071268
+301,Point,Italy,ITA,Europe,Primary land,5,Italy,301,12.574064,42.805525
+302,Point,Jamaica,JAM,North America,Primary land,5,Jamaica,302,-77.310485,18.157211
+306,Point,Japan,JPN,Asia,Primary land,5,Japan,306,139.269655,36.669956
+311,Point,Jordan,JOR,Asia,Primary land,5,Jordan,311,37.129449,30.658539
+312,Point,Kazakhstan,KAZ,Asia,Primary land,5,Kazakhstan,312,67.334931,48.442913
+317,Point,Kenya,KEN,Africa,Primary land,5,Kenya,317,37.859705,0.536271
+319,Point,Kiribati,KIR,Oceania,Primary land,5,Kiribati,319,173.021326,0.906379
+323,Point,Kuwait,KWT,Asia,Primary land,5,Kuwait,323,47.492225,29.539506
+325,Point,Kyrgyzstan,KGZ,Asia,Primary land,5,Kyrgyzstan,325,74.56386,41.482254
+326,Point,Laos,LAO,Asia,Primary land,5,Lao People's Democratic Republic,326,101.97248,20.287214
+327,Point,Latvia,LVA,Europe,Primary land,5,Latvia,327,26.423717,56.652652
+331,Point,Lebanon,LBN,Asia,Primary land,5,Lebanon,331,35.893255,33.923414
+332,Point,Lesotho,LSO,Africa,Primary land,5,Lesotho,332,28.245785,-29.586068
+333,Point,Liberia,LBR,Africa,Primary land,5,Liberia,333,-9.309819,6.451185
+337,Point,Libya,LBY,Africa,Primary land,5,Libya,337,17.997397,27.165591
+339,Point,Liechtenstein,LIE,Europe,Primary land,5,Liechtenstein,339,9.552569,47.14156
+341,Point,Lithuania,LTU,Europe,Primary land,5,Lithuania,341,23.902717,55.350586
+343,Point,Luxembourg,LUX,Europe,Primary land,5,Luxembourg,343,6.0922,49.778126
+346,Point,Madagascar,MDG,Africa,Primary land,5,Madagascar,346,46.678886,-19.478889
+350,Point,Malawi,MWI,Africa,Primary land,5,Malawi,350,33.483055,-13.413075
+352,Point,Malaysia,MYS,Asia,Primary land,5,Malaysia,352,114.403953,2.892821
+357,Point,Maldives,MDV,Asia,Primary land,5,Maldives,357,73.386725,4.015017
+358,Point,Mali,MLI,Africa,Primary land,5,Mali,358,-3.495907,17.458264
+367,Point,Mauritania,MRT,Africa,Primary land,5,Mauritania,367,-10.319998,20.346529
+371,Point,Mauritius,MUS,Africa,Primary land,5,Mauritius,371,57.572011,-20.283831
+376,Point,Mexico,MEX,North America,Primary land,5,Mexico,376,-102.71374,24.190453
+380,Point,Moldova,MDA,Europe,Primary land,5,"Moldova, Republic of",380,28.460634,47.21685
+381,Point,Monaco,MCO,Europe,Primary land,5,Monaco,381,7.415962,43.732389
+382,Point,Mongolia,MNG,Asia,Primary land,5,Mongolia,382,103.032222,46.973063
+385,Point,Montenegro,MNE,Europe,Primary land,5,Montenegro,385,19.252224,42.788938
+389,Point,Morocco,MAR,Africa,Primary land,5,Morocco,389,-5.024864,32.780208
+392,Point,Mozambique,MOZ,Africa,Primary land,5,Mozambique,392,38.181222,-14.300407
+396,Point,Myanmar,MMR,Asia,Primary land,5,Myanmar,396,96.533081,21.417306
+397,Point,Namibia,NAM,Africa,Primary land,5,Namibia,397,17.229413,-22.254074
+400,Point,Nauru,NRU,Oceania,Primary land,5,Nauru,400,166.9345,-0.528643
+401,Point,Nepal,NPL,Asia,Primary land,5,Nepal,401,83.930705,28.271019
+402,Point,Netherlands,NLD,Europe,Primary land,5,Netherlands,402,5.794757,52.324139
+408,Point,New Caledonia,NCL,Oceania,Primary land,5,France,408,165.514346,-21.411391
+409,Point,New Zealand,NZL,Oceania,Primary land,5,New Zealand,409,170.44079,-44.044526
+413,Point,Nicaragua,NIC,North America,Primary land,5,Nicaragua,413,-85.042675,12.848401
+416,Point,Niger,NER,Africa,Primary land,5,Niger,416,9.428654,17.477463
+418,Point,Nigeria,NGA,Africa,Primary land,5,Nigeria,418,8.137012,9.683992
+426,Point,North Korea,PRK,Asia,Primary land,5,"Korea, Democratic People's Republic of",426,127.190976,40.176208
+427,Point,North Macedonia,MKD,Europe,Primary land,5,North Macedonia,427,21.701679,41.603451
+429,Point,Northern Mariana Islands,MNP,Oceania,Primary land,5,United States,429,145.832853,17.59975
+431,Point,Norway,NOR,Europe,Primary land,5,Norway,431,24.510622,69.698088
+438,Point,Oman,OMN,Asia,Primary land,5,Oman,438,57.878717,22.000843
+439,Point,Pakistan,PAK,Asia,Primary land,5,Pakistan,439,69.470777,30.149095
+442,Point,Palau,PLW,Oceania,Primary land,5,Palau,442,134.565218,7.499462
+445,Point,Palestinian Territory,PSE,Asia,Primary land,5,"Palestine, State of",445,35.255221,31.943784
+448,Point,Panama,PAN,North America,Primary land,5,Panama,448,-81.268105,8.452859
+450,Point,Papua New Guinea,PNG,Asia,Primary land,5,Papua New Guinea,450,144.271385,-6.614516
+453,Point,Paraguay,PRY,South America,Primary land,5,Paraguay,453,-58.383729,-23.272757
+455,Point,Peru,PER,South America,Primary land,5,Peru,455,-71.820374,-13.618397
+458,Point,Philippines,PHL,Asia,Primary land,5,Philippines,458,120.86186,14.164682
+464,Point,Poland,POL,Europe,Primary land,5,Poland,464,19.134369,51.799392
+469,Point,Portugal,PRT,Europe,Primary land,5,Portugal,469,-7.958793,39.726586
+470,Point,Puerto Rico,PRI,North America,Primary land,5,United States,470,-66.47944,18.224829
+475,Point,Qatar,QAT,Asia,Primary land,5,Qatar,475,51.192761,25.287261
+479,Point,Romania,ROU,Europe,Primary land,5,Romania,479,24.933256,45.880445
+481,Point,Russian Federation,RUS,Europe,Primary land,5,Russian Federation,481,21.45609,54.708087
+488,Point,Rwanda,RWA,Africa,Primary land,5,Rwanda,488,29.925845,-1.999524
+498,Point,Saint Lucia,LCA,North America,Primary land,5,Saint Lucia,498,-60.966728,13.898354
+499,Point,Saint Martin,MAF,North America,Primary land,5,France,499,-63.045144,18.08763
+505,Point,Saint Vincent and the Grenadines,VCT,North America,Primary land,5,Saint Vincent and the Grenadines,505,-61.18895,13.251275
+507,Point,Samoa,WSM,Oceania,Primary land,5,Samoa,507,-172.447355,-13.620976
+510,Point,San Marino,SMR,Europe,Primary land,5,San Marino,510,12.462582,43.938744
+511,Point,Sao Tome and Principe,STP,Africa,Primary land,5,São Tomé and Príncipe,511,6.60241,0.238965
+515,Point,Saudi Arabia,SAU,Asia,Primary land,5,Saudi Arabia,515,44.487542,24.279335
+517,Point,Senegal,SEN,Africa,Primary land,5,Senegal,517,-14.447596,14.379851
+520,Point,Serbia,SRB,Europe,Primary land,5,Serbia,520,20.797999,44.058411
+521,Point,Seychelles,SYC,Africa,Primary land,5,Seychelles,521,55.467321,-4.678696
+525,Point,Sierra Leone,SLE,Africa,Primary land,5,Sierra Leone,525,-11.779444,8.571913
+529,Point,Singapore,SGP,Asia,Primary land,5,Singapore,529,103.809038,1.355941
+530,Point,Sint Maarten,SXM,North America,Primary land,5,Netherlands,530,-63.063165,18.038715
+532,Point,Slovakia,SVK,Europe,Primary land,5,Slovakia,532,19.490301,48.712415
+533,Point,Slovenia,SVN,Europe,Primary land,5,Slovenia,533,14.824335,46.122545
+536,Point,Solomon Islands,SLB,Oceania,Primary land,5,Solomon Islands,536,160.160313,-9.622933
+538,Point,Somalia,SOM,Africa,Primary land,5,Somalia,538,46.203805,4.40948
+543,Point,South Africa,ZAF,Africa,Primary land,5,South Africa,543,24.672466,-30.087977
+549,Point,South Korea,KOR,Asia,Primary land,5,"Korea, Republic of",549,128.71616,36.575678
+550,Point,South Sudan,SSD,Africa,Primary land,5,South Sudan,550,30.347453,7.291111
+554,Point,Spain,ESP,Europe,Primary land,5,Spain,554,-3.549563,40.473146
+560,Point,Sri Lanka,LKA,Asia,Primary land,5,Sri Lanka,560,80.708872,7.583346
+563,Point,Sudan,SDN,Africa,Primary land,5,Sudan,563,30.021957,16.140895
+565,Point,Suriname,SUR,South America,Primary land,5,Suriname,565,-55.906972,4.136874
+570,Point,Sweden,SWE,Europe,Primary land,5,Sweden,570,16.993673,63.452412
+571,Point,Switzerland,CHE,Europe,Primary land,5,Switzerland,571,8.222167,46.973013
+573,Point,Syria,SYR,Asia,Primary land,5,Syrian Arab Republic,573,38.507341,35.041639
+574,Point,Tajikistan,TJK,Asia,Primary land,5,Tajikistan,574,69.294201,38.443089
+575,Point,Tanzania,TZA,Africa,Primary land,5,"Tanzania, United Republic of",575,34.80887,-6.285391
+580,Point,Thailand,THA,Asia,Primary land,5,Thailand,580,101.02188,15.225166
+582,Point,Timor-Leste,TLS,Asia,Primary land,5,Timor-Leste,582,125.945564,-8.797505
+584,Point,Togo,TGO,Africa,Primary land,5,Togo,584,0.975135,8.541338
+590,Point,Trinidad and Tobago,TTO,South America,Primary land,5,Trinidad and Tobago,590,-61.296374,10.424091
+593,Point,Tunisia,TUN,Africa,Primary land,5,Tunisia,593,9.569856,34.161836
+596,Point,Turkiye,TUR,Asia,Primary land,5,Turkiye,596,35.438087,39.028255
+598,Point,Turkmenistan,TKM,Asia,Primary land,5,Turkmenistan,598,59.378357,39.16253
+605,Point,Uganda,UGA,Africa,Primary land,5,Uganda,605,32.390207,1.280718
+608,Point,Ukraine,UKR,Europe,Primary land,5,Ukraine,608,31.357996,49.097671
+610,Point,United Arab Emirates,ARE,Asia,Primary land,5,United Arab Emirates,610,53.978402,23.464871
+614,Point,United Kingdom,GBR,Europe,Primary land,5,United Kingdom,614,-0.234006,52.268903
+616,Point,United States,USA,North America,Primary land,5,United States,616,-99.706282,40.029014
+621,Point,United States Minor Outlying Islands,UMI,North America,Primary land,5,United States,621,-159.997742,-0.373198
+625,Point,Uruguay,URY,South America,Primary land,5,Uruguay,625,-56.011005,-32.815798
+627,Point,US Virgin Islands,VIR,North America,Primary land,5,United States,627,-64.884455,18.332034
+629,Point,Uzbekistan,UZB,Asia,Primary land,5,Uzbekistan,629,63.052064,41.840705
+631,Point,Vanuatu,VUT,Oceania,Primary land,5,Vanuatu,631,166.872891,-15.241653
+634,Point,Vatican City,VAT,Europe,Primary land,5,Holy See (Vatican City State),634,12.45292,41.903544
+635,Point,Venezuela,VEN,South America,Primary land,5,"Venezuela, Bolivarian Republic of",635,-66.242057,7.106061
+641,Point,Vietnam,VNM,Asia,Primary land,5,Viet Nam,641,106.347027,17.493076
+643,Point,Wallis and Futuna,WLF,Oceania,Primary land,5,France,643,-178.133879,-14.283743
+646,Point,Yemen,YEM,Asia,Primary land,5,Yemen,646,45.22599,15.237042
+650,Point,Zambia,ZMB,Africa,Primary land,5,Zambia,650,27.853704,-14.607846
+651,Point,Zimbabwe,ZWE,Africa,Primary land,5,Zimbabwe,651,29.872127,-19.023401

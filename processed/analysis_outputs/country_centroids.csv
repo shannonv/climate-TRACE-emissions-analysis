@@ -1,0 +1,652 @@
+OBJECTID,Shape,Country Name,iso3_country,Continent,LAND_TYPE,Land Rank,Affiliated Country,ORIG_FID,centroid_lon,centroid_lat
+1,Point,Afghanistan,AFG,Asia,Primary land,5,Afghanistan,1,66.065186,33.910354
+2,Point,Albania,ALB,Europe,Primary land,5,Albania,2,20.064043,41.150428
+3,Point,Albania,ALB,Europe,Very small island,1,Albania,3,19.460906,41.857113
+4,Point,Albania,ALB,Europe,Small island,2,Albania,4,19.278931,40.494241
+5,Point,Algeria,DZA,Africa,Small island,2,Algeria,5,-1.131075,35.724049
+6,Point,Algeria,DZA,Africa,Very small island,1,Algeria,6,-1.479637,35.321533
+7,Point,Algeria,DZA,Africa,Primary land,5,Algeria,7,2.673574,28.420827
+8,Point,American Samoa,ASM,Oceania,Very small island,1,United States,8,-168.155266,-14.558524
+9,Point,American Samoa,ASM,Oceania,Small island,2,United States,9,-169.467102,-14.23568
+10,Point,American Samoa,ASM,Oceania,Primary land,5,United States,10,-170.718087,-14.300667
+11,Point,Andorra,AND,Europe,Primary land,5,Andorra,11,1.575995,42.545321
+12,Point,Angola,AGO,Africa,Very small island,1,Angola,12,12.80843,-6.003717
+13,Point,Angola,AGO,Africa,Primary land,5,Angola,13,17.580573,-12.395574
+14,Point,Angola,AGO,Africa,Small island,2,Angola,14,11.704605,-16.592971
+15,Point,Anguilla,AIA,North America,Primary land,5,United Kingdom,15,-63.184773,18.266723
+16,Point,Anguilla,AIA,North America,Very small island,1,United Kingdom,16,-63.42564,18.588175
+17,Point,Anguilla,AIA,North America,Small island,2,United Kingdom,17,-63.054341,18.21465
+18,Point,Antarctica,ATA,Antarctica,Small island,2, ,18,-149.211079,-77.348819
+19,Point,Antarctica,ATA,Antarctica,Primary land,5, ,19,9.126129,-85.893766
+20,Point,Antarctica,ATA,Antarctica,Large island,4, ,20,-70.01322,-71.048846
+21,Point,Antarctica,ATA,Antarctica,Medium island,3, ,21,167.484626,-77.546126
+22,Point,Antigua and Barbuda,ATG,North America,Small island,2,Antigua and Barbuda,22,-61.754722,17.155226
+23,Point,Antigua and Barbuda,ATG,North America,Very small island,1,Antigua and Barbuda,23,-61.850448,17.632352
+24,Point,Antigua and Barbuda,ATG,North America,Primary land,5,Antigua and Barbuda,24,-61.798213,17.077124
+25,Point,Argentina,ARG,South America,Primary land,5,Argentina,25,-65.388993,-36.330264
+26,Point,Argentina,ARG,South America,Very small island,1,Argentina,26,-64.253512,-54.693656
+27,Point,Argentina,ARG,South America,Small island,2,Argentina,27,-58.580095,-33.97583
+28,Point,Argentina,ARG,South America,Medium island,3,Argentina,28,-58.787952,-34.084317
+29,Point,Armenia,ARM,Asia,Primary land,5,Armenia,29,44.934642,40.302028
+30,Point,Aruba,ABW,South America,Small island,2,Netherlands,30,-69.970177,12.509189
+31,Point,Australia,AUS,Australia,Medium island,3,Australia,31,137.333378,-35.786832
+32,Point,Australia,AUS,Australia,Primary land,5,Australia,32,134.439731,-26.0228
+33,Point,Australia,AUS,Australia,Very small island,1,Australia,33,147.680056,-39.687222
+34,Point,Australia,AUS,Australia,Small island,2,Australia,34,147.262317,-43.394494
+35,Point,Austria,AUT,Europe,Primary land,5,Austria,35,14.149325,47.597077
+36,Point,Azerbaijan,AZE,Asia,Very small island,1,Azerbaijan,36,48.947372,38.979864
+37,Point,Azerbaijan,AZE,Asia,Primary land,5,Azerbaijan,37,47.64852,40.372487
+38,Point,Azerbaijan,AZE,Asia,Small island,2,Azerbaijan,38,49.146248,38.990144
+39,Point,Azores,PRT,Europe,Small island,2,Portugal,39,-28.332327,38.4693
+40,Point,Azores,PRT,Europe,Medium island,3,Portugal,40,-25.493567,37.778081
+41,Point,Azores,PRT,Europe,Very small island,1,Portugal,41,-27.145444,38.632284
+42,Point,Bahamas,BHS,North America,Very small island,1,Bahamas,42,-78.534849,26.731668
+43,Point,Bahamas,BHS,North America,Medium island,3,Bahamas,43,-73.349635,21.078324
+44,Point,Bahamas,BHS,North America,Primary land,5,Bahamas,44,-78.059549,24.690036
+45,Point,Bahamas,BHS,North America,Small island,2,Bahamas,45,-74.956771,23.072586
+46,Point,Bahrain,BHR,Asia,Small island,2,Bahrain,46,50.784669,25.687888
+47,Point,Bahrain,BHR,Asia,Primary land,5,Bahrain,47,50.545714,26.056253
+48,Point,Bahrain,BHR,Asia,Very small island,1,Bahrain,48,50.775546,25.662535
+49,Point,Bangladesh,BGD,Asia,Primary land,5,Bangladesh,49,90.294903,24.056008
+50,Point,Bangladesh,BGD,Asia,Very small island,1,Bangladesh,50,90.63643,22.347195
+51,Point,Bangladesh,BGD,Asia,Medium island,3,Bangladesh,51,90.010096,22.279036
+52,Point,Bangladesh,BGD,Asia,Small island,2,Bangladesh,52,91.109175,22.24428
+53,Point,Barbados,BRB,North America,Primary land,5,Barbados,53,-59.53535,13.13825
+54,Point,Belarus,BLR,Europe,Primary land,5,Belarus,54,28.058526,53.588796
+55,Point,Belgium,BEL,Europe,Primary land,5,Belgium,55,4.657523,50.646638
+56,Point,Belize,BLZ,North America,Very small island,1,Belize,56,-88.026484,17.005959
+57,Point,Belize,BLZ,North America,Small island,2,Belize,57,-87.805814,17.478931
+58,Point,Belize,BLZ,North America,Primary land,5,Belize,58,-88.705737,17.204345
+59,Point,Benin,BEN,Africa,Very small island,1,Benin,59,1.922361,6.300935
+60,Point,Benin,BEN,Africa,Primary land,5,Benin,60,2.336506,9.674147
+61,Point,Benin,BEN,Africa,Small island,2,Benin,61,1.941506,6.305721
+62,Point,Bermuda,BMU,North America,Small island,2,United Kingdom,62,-64.7271,32.327942
+63,Point,Bermuda,BMU,North America,Very small island,1,United Kingdom,63,-64.664498,32.372073
+64,Point,Bhutan,BTN,Asia,Primary land,5,Bhutan,64,90.420049,27.423131
+65,Point,Bolivia,BOL,South America,Primary land,5,"Bolivia, Plurinational State of",65,-64.658406,-16.778019
+66,Point,Bonaire,BES,South America,Small island,2,Netherlands,66,-68.307848,12.226769
+67,Point,Bosnia and Herzegovina,BIH,Europe,Primary land,5,Bosnia and Herzegovina,67,17.783057,44.177681
+68,Point,Bosnia and Herzegovina,BIH,Europe,Very small island,1,Bosnia and Herzegovina,68,17.622214,42.901271
+69,Point,Botswana,BWA,Africa,Primary land,5,Botswana,69,23.809296,-22.235609
+70,Point,Bouvet Island,BVT,Antarctica,Very small island,1,Norway,70,3.314177,-54.453615
+71,Point,Bouvet Island,BVT,Antarctica,Small island,2,Norway,71,3.358472,-54.421814
+72,Point,Brazil,BRA,South America,Small island,2,Brazil,72,-48.485793,-27.586359
+73,Point,Brazil,BRA,South America,Very small island,1,Brazil,73,-42.918204,-23.013232
+74,Point,Brazil,BRA,South America,Primary land,5,Brazil,74,-53.04823,-11.239404
+75,Point,Brazil,BRA,South America,Medium island,3,Brazil,75,-51.533706,-0.998409
+76,Point,British Indian Ocean Territory,IOT,Asia,Very small island,1,United Kingdom,76,72.271665,-5.331332
+77,Point,British Indian Ocean Territory,IOT,Asia,Small island,2,United Kingdom,77,72.459387,-7.402164
+78,Point,British Virgin Islands,VGB,North America,Very small island,1,United Kingdom,78,-64.456848,18.482046
+79,Point,British Virgin Islands,VGB,North America,Small island,2,United Kingdom,79,-64.63538,18.423537
+80,Point,Brunei Darussalam,BRN,Asia,Small island,2,Brunei Darussalam,80,115.129994,4.885423
+81,Point,Brunei Darussalam,BRN,Asia,Primary land,5,Brunei Darussalam,81,114.630308,4.495893
+82,Point,Brunei Darussalam,BRN,Asia,Very small island,1,Brunei Darussalam,82,115.045527,4.915649
+83,Point,Bulgaria,BGR,Europe,Small island,2,Bulgaria,83,27.889066,43.194312
+84,Point,Bulgaria,BGR,Europe,Primary land,5,Bulgaria,84,25.238437,42.769325
+85,Point,Bulgaria,BGR,Europe,Very small island,1,Bulgaria,85,27.691422,42.43846
+86,Point,Burkina Faso,BFA,Africa,Primary land,5,Burkina Faso,86,-1.738338,12.285166
+87,Point,Burundi,BDI,Africa,Primary land,5,Burundi,87,29.891137,-3.366465
+88,Point,Cabo Verde,CPV,Africa,Small island,2,Cabo Verde,88,-23.160577,15.217871
+89,Point,Cabo Verde,CPV,Africa,Medium island,3,Cabo Verde,89,-22.814095,16.097616
+90,Point,Cabo Verde,CPV,Africa,Primary land,5,Cabo Verde,90,-23.624718,15.083707
+91,Point,Cabo Verde,CPV,Africa,Very small island,1,Cabo Verde,91,-24.659412,14.969243
+92,Point,Cambodia,KHM,Asia,Primary land,5,Cambodia,92,104.919447,12.731108
+93,Point,Cambodia,KHM,Asia,Very small island,1,Cambodia,93,103.54428,10.526147
+94,Point,Cambodia,KHM,Asia,Small island,2,Cambodia,94,103.007754,11.334176
+95,Point,Cameroon,CMR,Africa,Small island,2,Cameroon,95,8.585266,4.667757
+96,Point,Cameroon,CMR,Africa,Primary land,5,Cameroon,96,12.754563,5.715832
+97,Point,Cameroon,CMR,Africa,Very small island,1,Cameroon,97,10.025495,3.327921
+98,Point,Canada,CAN,North America,Very small island,1,Canada,98,-75.279922,83.023297
+99,Point,Canada,CAN,North America,Primary land,5,Canada,99,-119.657016,60.728167
+100,Point,Canada,CAN,North America,Medium island,3,Canada,100,-94.735392,77.623033
+101,Point,Canada,CAN,North America,Large island,4,Canada,101,-93.469979,73.311366
+102,Point,Canada,CAN,North America,Small island,2,Canada,102,-74.230441,83.084923
+103,Point,Canarias,ESP,Africa,Small island,2,Spain,103,-17.232579,28.11739
+104,Point,Canarias,ESP,Africa,Medium island,3,Spain,104,-16.556229,28.291124
+105,Point,Canarias,ESP,Africa,Very small island,1,Spain,105,-16.159834,28.592898
+106,Point,Cayman Islands,CYM,North America,Small island,2,United Kingdom,106,-81.243904,19.318456
+107,Point,Cayman Islands,CYM,North America,Very small island,1,United Kingdom,107,-81.262088,19.328997
+108,Point,Central African Republic,CAF,Africa,Primary land,5,Central African Republic,108,20.939645,7.01329
+109,Point,Chad,TCD,Africa,Primary land,5,Chad,109,18.672541,15.483356
+110,Point,Chile,CHL,South America,Medium island,3,Chile,110,-74.784891,-49.398061
+111,Point,Chile,CHL,South America,Primary land,5,Chile,111,-71.396727,-37.358916
+112,Point,Chile,CHL,South America,Small island,2,Chile,112,-74.729002,-51.965159
+113,Point,Chile,CHL,South America,Very small island,1,Chile,113,-70.094732,-55.033003
+114,Point,China,CHN,Asia,Primary land,5,China,114,104.167414,32.825963
+115,Point,China,CHN,Asia,Small island,2,China,115,122.140242,30.054971
+116,Point,China,CHN,Asia,Very small island,1,China,116,121.224477,39.106171
+117,Point,China,CHN,Asia,Medium island,3,China,117,121.565004,31.622372
+118,Point,Christmas Island,CXR,Asia,Small island,2,Australia,118,105.636437,-10.485389
+119,Point,Clipperton,FRA,North America,Small island,2,France,119,-109.217146,10.289845
+120,Point,Cocos Islands,CCK,Asia,Very small island,1,Australia,120,96.915518,-12.139464
+121,Point,Cocos Islands,CCK,Asia,Small island,2,Australia,121,96.82873,-12.182518
+122,Point,Colombia,COL,South America,Small island,2,Colombia,122,-77.404685,4.231311
+123,Point,Colombia,COL,South America,Very small island,1,Colombia,123,-78.724511,1.517618
+124,Point,Colombia,COL,South America,Primary land,5,Colombia,124,-73.076011,3.922438
+125,Point,Comoros,COM,Africa,Very small island,1,Comoros,125,44.203361,-12.164441
+126,Point,Comoros,COM,Africa,Small island,2,Comoros,126,44.436661,-12.222363
+127,Point,Comoros,COM,Africa,Medium island,3,Comoros,127,43.354302,-11.662814
+128,Point,Congo,COG,Africa,Very small island,1,Congo,128,11.726588,-4.460933
+129,Point,Congo,COG,Africa,Primary land,5,Congo,129,15.220475,-0.841257
+130,Point,Congo,COG,Africa,Small island,2,Congo,130,11.747386,-4.426158
+131,Point,Congo DRC,COD,Africa,Primary land,5,"Congo, The Democratic Republic of the",131,23.658774,-2.903371
+132,Point,Congo DRC,COD,Africa,Very small island,1,"Congo, The Democratic Republic of the",132,12.993742,-5.880356
+133,Point,Congo DRC,COD,Africa,Small island,2,"Congo, The Democratic Republic of the",133,12.803636,-5.930143
+134,Point,Cook Islands,COK,Oceania,Small island,2,New Zealand,134,-159.777641,-21.2346
+135,Point,Cook Islands,COK,Oceania,Very small island,1,New Zealand,135,-165.871272,-10.893494
+136,Point,Costa Rica,CRI,North America,Small island,2,Costa Rica,136,-83.694285,10.715326
+137,Point,Costa Rica,CRI,North America,Primary land,5,Costa Rica,137,-84.197902,9.973333
+138,Point,Costa Rica,CRI,North America,Very small island,1,Costa Rica,138,-85.893079,10.872721
+139,Point,Côte d'Ivoire,CIV,Africa,Small island,2,Côte d'Ivoire,139,-4.086414,5.281883
+140,Point,Côte d'Ivoire,CIV,Africa,Primary land,5,Côte d'Ivoire,140,-5.558293,7.638993
+141,Point,Côte d'Ivoire,CIV,Africa,Very small island,1,Côte d'Ivoire,141,-4.644732,5.227605
+142,Point,Croatia,HRV,Europe,Small island,2,Croatia,142,14.614516,45.070784
+143,Point,Croatia,HRV,Europe,Very small island,1,Croatia,143,15.560222,43.853102
+144,Point,Croatia,HRV,Europe,Medium island,3,Croatia,144,14.403788,44.828838
+145,Point,Croatia,HRV,Europe,Primary land,5,Croatia,145,17.958028,45.452965
+146,Point,Cuba,CUB,North America,Medium island,3,Cuba,146,-82.840081,21.676206
+147,Point,Cuba,CUB,North America,Small island,2,Cuba,147,-77.53491,21.85296
+148,Point,Cuba,CUB,North America,Primary land,5,Cuba,148,-76.83649,20.620027
+149,Point,Cuba,CUB,North America,Very small island,1,Cuba,149,-82.180222,21.583059
+150,Point,Curacao,CUW,South America,Small island,2,Netherlands,150,-68.949351,12.148084
+151,Point,Curacao,CUW,South America,Very small island,1,Netherlands,151,-68.854753,12.079122
+152,Point,Cyprus,CYP,Asia,Primary land,5,Cyprus,152,33.227481,35.051173
+153,Point,Cyprus,CYP,Asia,Very small island,1,Cyprus,153,33.291858,35.349172
+154,Point,Czech Republic,CZE,Europe,Primary land,5,Czechia,154,15.328455,49.747879
+155,Point,Denmark,DNK,Europe,Very small island,1,Denmark,155,10.231314,56.707485
+156,Point,Denmark,DNK,Europe,Small island,2,Denmark,156,9.963294,54.946707
+157,Point,Denmark,DNK,Europe,Medium island,3,Denmark,157,10.328434,55.32657
+158,Point,Denmark,DNK,Europe,Primary land,5,Denmark,158,9.302867,56.043233
+159,Point,Djibouti,DJI,Africa,Primary land,5,Djibouti,159,42.183194,11.561636
+160,Point,Djibouti,DJI,Africa,Very small island,1,Djibouti,160,43.427826,12.472244
+161,Point,Djibouti,DJI,Africa,Small island,2,Djibouti,161,43.205738,11.715316
+162,Point,Dominica,DMA,North America,Primary land,5,Dominica,162,-61.349967,15.434509
+163,Point,Dominican Republic,DOM,North America,Very small island,1,Dominican Republic,163,-69.626294,18.439223
+164,Point,Dominican Republic,DOM,North America,Small island,2,Dominican Republic,164,-68.683667,18.149682
+165,Point,Dominican Republic,DOM,North America,Primary land,5,Dominican Republic,165,-70.499287,18.900252
+166,Point,Ecuador,ECU,South America,Primary land,5,Ecuador,166,-78.101636,-1.181744
+167,Point,Ecuador,ECU,South America,Very small island,1,Ecuador,167,-89.644402,-1.343531
+168,Point,Ecuador,ECU,South America,Medium island,3,Ecuador,168,-91.187882,-0.864595
+169,Point,Ecuador,ECU,South America,Small island,2,Ecuador,169,-90.71249,-0.266359
+170,Point,Egypt,EGY,Africa,Primary land,5,Egypt,170,29.504567,26.443478
+171,Point,Egypt,EGY,Africa,Small island,2,Egypt,171,34.008677,27.487814
+172,Point,Egypt,EGY,Africa,Very small island,1,Egypt,172,33.78331,27.626047
+173,Point,El Salvador,SLV,North America,Primary land,5,El Salvador,173,-88.869335,13.737988
+174,Point,El Salvador,SLV,North America,Small island,2,El Salvador,174,-87.711444,13.189997
+175,Point,El Salvador,SLV,North America,Very small island,1,El Salvador,175,-88.693784,13.254361
+176,Point,Equatorial Guinea,GNQ,Africa,Primary land,5,Equatorial Guinea,176,10.476418,1.567655
+177,Point,Equatorial Guinea,GNQ,Africa,Small island,2,Equatorial Guinea,177,5.635746,-1.435683
+178,Point,Equatorial Guinea,GNQ,Africa,Very small island,1,Equatorial Guinea,178,9.710021,1.58118
+179,Point,Eritrea,ERI,Africa,Medium island,3,Eritrea,179,40.174713,15.607646
+180,Point,Eritrea,ERI,Africa,Primary land,5,Eritrea,180,38.109334,16.137514
+181,Point,Eritrea,ERI,Africa,Very small island,1,Eritrea,181,40.169475,16.227606
+182,Point,Eritrea,ERI,Africa,Small island,2,Eritrea,182,40.022763,16.031675
+183,Point,Estonia,EST,Europe,Primary land,5,Estonia,183,25.835334,58.69455
+184,Point,Estonia,EST,Europe,Medium island,3,Estonia,184,22.548793,58.395201
+185,Point,Estonia,EST,Europe,Small island,2,Estonia,185,23.2442,59.004066
+186,Point,Estonia,EST,Europe,Very small island,1,Estonia,186,25.270636,59.543699
+187,Point,Eswatini,SWZ,Africa,Primary land,5,Eswatini,187,31.497714,-26.567785
+188,Point,Ethiopia,ETH,Africa,Primary land,5,Ethiopia,188,39.630259,8.662219
+189,Point,Falkland Islands,FLK,South America,Very small island,1,United Kingdom,189,-59.079346,-51.687519
+190,Point,Falkland Islands,FLK,South America,Medium island,3,United Kingdom,190,-58.754169,-51.742328
+191,Point,Falkland Islands,FLK,South America,Small island,2,United Kingdom,191,-61.010683,-51.924557
+192,Point,Faroe Islands,FRO,Europe,Very small island,1,Denmark,192,-7.45945,62.078274
+193,Point,Faroe Islands,FRO,Europe,Small island,2,Denmark,193,-6.864082,62.212603
+194,Point,Faroe Islands,FRO,Europe,Medium island,3,Denmark,194,-7.128718,62.20572
+195,Point,Fiji,FJI,Oceania,Medium island,3,Fiji,195,179.237785,-16.555747
+196,Point,Fiji,FJI,Oceania,Primary land,5,Fiji,196,177.965256,-17.83655
+197,Point,Fiji,FJI,Oceania,Very small island,1,Fiji,197,178.058827,-17.346516
+198,Point,Fiji,FJI,Oceania,Small island,2,Fiji,198,178.352213,-18.996983
+199,Point,Finland,FIN,Europe,Small island,2,Finland,199,24.677097,65.021308
+200,Point,Finland,FIN,Europe,Primary land,5,Finland,200,23.310632,61.982554
+201,Point,Finland,FIN,Europe,Very small island,1,Finland,201,24.811843,65.552585
+202,Point,France,FRA,Europe,Primary land,5,France,202,2.454616,46.744419
+203,Point,France,FRA,Europe,Very small island,1,France,203,-2.985139,48.845835
+204,Point,France,FRA,Europe,Small island,2,France,204,-1.29234,45.934715
+205,Point,French Guiana,GUF,South America,Primary land,5,France,205,-53.236256,3.921854
+206,Point,French Guiana,GUF,South America,Very small island,1,France,206,-52.184196,4.891958
+207,Point,French Guiana,GUF,South America,Small island,2,France,207,-54.072955,5.441283
+208,Point,French Polynesia,PYF,Oceania,Small island,2,France,208,-140.139812,-8.866125
+209,Point,French Polynesia,PYF,Oceania,Very small island,1,France,209,-145.494208,-15.539436
+210,Point,French Polynesia,PYF,Oceania,Medium island,3,France,210,-149.400723,-17.677559
+211,Point,French Southern Territories,ATF,Africa,Very small island,1,France,211,47.37702,-11.516426
+212,Point,French Southern Territories,ATF,Africa,Medium island,3,France,212,69.487368,-49.315649
+213,Point,French Southern Territories,ATF,Africa,Small island,2,France,213,69.248114,-49.024481
+214,Point,French Southern Territories,ATF,Africa,Small island,2,France,214,77.556309,-37.836315
+215,Point,French Southern Territories,ATF,Africa,Very small island,1,France,215,69.97706,-49.443049
+216,Point,Gabon,GAB,Africa,Primary land,5,Gabon,216,11.822319,-0.597304
+217,Point,Gabon,GAB,Africa,Small island,2,Gabon,217,8.905672,-0.910115
+218,Point,Gabon,GAB,Africa,Very small island,1,Gabon,218,9.886013,-2.443723
+219,Point,Gambia,GMB,Africa,Primary land,5,Gambia,219,-14.548,13.486313
+220,Point,Gambia,GMB,Africa,Small island,2,Gambia,220,-15.331094,13.455949
+221,Point,Gambia,GMB,Africa,Very small island,1,Gambia,221,-16.605709,13.418278
+222,Point,Georgia,GEO,Asia,Small island,2,Georgia,222,41.641189,42.197999
+223,Point,Georgia,GEO,Asia,Primary land,5,Georgia,223,43.37194,42.053109
+224,Point,Georgia,GEO,Asia,Very small island,1,Georgia,224,41.790279,42.21046
+225,Point,Germany,DEU,Europe,Medium island,3,Germany,225,13.440351,54.399482
+226,Point,Germany,DEU,Europe,Primary land,5,Germany,226,10.418389,51.129771
+227,Point,Germany,DEU,Europe,Small island,2,Germany,227,11.14856,54.465215
+228,Point,Germany,DEU,Europe,Very small island,1,Germany,228,13.770258,54.203213
+229,Point,Ghana,GHA,Africa,Small island,2,Ghana,229,0.636011,5.806324
+230,Point,Ghana,GHA,Africa,Very small island,1,Ghana,230,0.965648,6.000103
+231,Point,Ghana,GHA,Africa,Primary land,5,Ghana,231,-1.208979,7.978433
+232,Point,Gibraltar,GIB,Europe,Primary land,5,United Kingdom,232,-5.348749,36.135827
+233,Point,Greece,GRC,Europe,Very small island,1,Greece,233,25.218249,39.865865
+234,Point,Greece,GRC,Europe,Primary land,5,Greece,234,22.593398,39.511578
+235,Point,Greece,GRC,Europe,Medium island,3,Greece,235,26.028077,39.192807
+236,Point,Greece,GRC,Europe,Small island,2,Greece,236,26.810978,37.733524
+237,Point,Greenland,GRL,North America,Primary land,5,Denmark,237,-41.06752,77.367079
+238,Point,Greenland,GRL,North America,Small island,2,Denmark,238,-17.736821,82.013143
+239,Point,Greenland,GRL,North America,Large island,4,Denmark,239,-46.661647,82.336798
+240,Point,Greenland,GRL,North America,Very small island,1,Denmark,240,-22.751737,82.914
+241,Point,Greenland,GRL,North America,Medium island,3,Denmark,241,-23.283871,72.556917
+242,Point,Grenada,GRD,North America,Primary land,5,Grenada,242,-61.683657,12.113705
+243,Point,Grenada,GRD,North America,Very small island,1,Grenada,243,-61.55312,12.316443
+244,Point,Grenada,GRD,North America,Small island,2,Grenada,244,-61.459558,12.46896
+245,Point,Guadeloupe,GLP,North America,Primary land,5,France,245,-61.650355,16.144628
+246,Point,Guadeloupe,GLP,North America,Small island,2,France,246,-61.268553,15.93197
+247,Point,Guadeloupe,GLP,North America,Very small island,1,France,247,-61.595524,15.875616
+248,Point,Guam,GUM,Oceania,Primary land,5,United States,248,144.702958,13.357712
+249,Point,Guam,GUM,Oceania,Very small island,1,United States,249,144.651485,13.238131
+250,Point,Guatemala,GTM,North America,Very small island,1,Guatemala,250,-91.092138,13.918994
+251,Point,Guatemala,GTM,North America,Primary land,5,Guatemala,251,-91.23528,15.007994
+252,Point,Guernsey,GGY,Europe,Very small island,1,United Kingdom,252,-2.667952,49.461343
+253,Point,Guernsey,GGY,Europe,Small island,2,United Kingdom,253,-2.579812,49.456081
+254,Point,Guinea,GIN,Africa,Primary land,5,Guinea,254,-11.278,11.007258
+255,Point,Guinea,GIN,Africa,Small island,2,Guinea,255,-15.032621,10.861138
+256,Point,Guinea,GIN,Africa,Very small island,1,Guinea,256,-14.594753,10.502995
+257,Point,Guinea-Bissau,GNB,Africa,Primary land,5,Guinea-Bissau,257,-14.403146,12.121947
+258,Point,Guinea-Bissau,GNB,Africa,Small island,2,Guinea-Bissau,258,-16.127759,11.10362
+259,Point,Guinea-Bissau,GNB,Africa,Very small island,1,Guinea-Bissau,259,-15.561515,11.852981
+260,Point,Guyana,GUY,South America,Primary land,5,Guyana,260,-58.977218,4.794074
+261,Point,Guyana,GUY,South America,Small island,2,Guyana,261,-58.528986,6.829009
+262,Point,Guyana,GUY,South America,Very small island,1,Guyana,262,-58.584385,6.723527
+263,Point,Haiti,HTI,North America,Primary land,5,Haiti,263,-72.336803,18.403993
+264,Point,Haiti,HTI,North America,Small island,2,Haiti,264,-72.795469,20.054872
+265,Point,Haiti,HTI,North America,Medium island,3,Haiti,265,-73.046325,18.842819
+266,Point,Haiti,HTI,North America,Very small island,1,Haiti,266,-73.513501,18.213552
+267,Point,Heard Island and McDonald Islands,HMD,Antarctica,Small island,2,Australia,267,73.516961,-53.093395
+268,Point,Heard Island and McDonald Islands,HMD,Antarctica,Very small island,1,Australia,268,73.582764,-52.918771
+269,Point,Honduras,HND,North America,Very small island,1,Honduras,269,-84.611045,15.853204
+270,Point,Honduras,HND,North America,Primary land,5,Honduras,270,-86.618266,14.820449
+271,Point,Honduras,HND,North America,Small island,2,Honduras,271,-86.499439,16.343908
+272,Point,Hungary,HUN,Europe,Primary land,5,Hungary,272,19.421,47.176987
+273,Point,Iceland,ISL,Europe,Primary land,5,Iceland,273,-18.582112,65.013305
+274,Point,Iceland,ISL,Europe,Small island,2,Iceland,274,-20.272402,63.431246
+275,Point,Iceland,ISL,Europe,Very small island,1,Iceland,275,-22.439011,65.112659
+276,Point,India,IND,Asia,Primary land,5,India,276,79.600788,23.253215
+277,Point,India,IND,Asia,Very small island,1,India,277,68.499178,23.465959
+278,Point,India,IND,Asia,Small island,2,India,278,81.835518,16.421805
+279,Point,India,IND,Asia,Medium island,3,India,279,92.830194,12.602281
+280,Point,Indonesia,IDN,Asia,Very small island,1,Indonesia,280,122.950119,-10.730023
+281,Point,Indonesia,IDN,Asia,Large island,4,Indonesia,281,128.015251,0.871316
+282,Point,Indonesia,IDN,Asia,Small island,2,Indonesia,282,100.079444,-2.697172
+283,Point,Indonesia,IDN,Asia,Medium island,3,Indonesia,283,105.987514,-2.253527
+284,Point,Indonesia,IDN,Asia,Primary land,5,Indonesia,284,113.998949,-0.206003
+285,Point,Iran,IRN,Asia,Primary land,5,"Iran, Islamic Republic of",285,54.221342,32.761133
+286,Point,Iran,IRN,Asia,Small island,2,"Iran, Islamic Republic of",286,49.169027,30.288262
+287,Point,Iran,IRN,Asia,Medium island,3,"Iran, Islamic Republic of",287,56.030415,26.857488
+288,Point,Iran,IRN,Asia,Very small island,1,"Iran, Islamic Republic of",288,49.219431,30.375599
+289,Point,Iraq,IRQ,Asia,Primary land,5,Iraq,289,43.750912,33.118962
+290,Point,Iraq,IRQ,Asia,Small island,2,Iraq,290,48.130416,30.43932
+291,Point,Ireland,IRL,Europe,Primary land,5,Ireland,291,-8.144111,53.206051
+292,Point,Ireland,IRL,Europe,Very small island,1,Ireland,292,-7.597345,55.052087
+293,Point,Ireland,IRL,Europe,Small island,2,Ireland,293,-9.66099,53.254959
+294,Point,Isle of Man,IMN,Europe,Very small island,1,United Kingdom,294,-4.796591,54.062433
+295,Point,Isle of Man,IMN,Europe,Medium island,3,United Kingdom,295,-4.5381,54.228382
+296,Point,Isle of Man,IMN,Europe,Small island,2,United Kingdom,296,-4.815303,54.053359
+297,Point,Israel,ISR,Asia,Very small island,1,Israel,297,34.914581,32.60913
+298,Point,Israel,ISR,Asia,Primary land,5,Israel,298,34.617965,31.071268
+299,Point,Italy,ITA,Europe,Small island,2,Italy,299,10.287608,42.778632
+300,Point,Italy,ITA,Europe,Very small island,1,Italy,300,12.435167,44.833153
+301,Point,Italy,ITA,Europe,Primary land,5,Italy,301,12.574064,42.805525
+302,Point,Jamaica,JAM,North America,Primary land,5,Jamaica,302,-77.310485,18.157211
+303,Point,Jamaica,JAM,North America,Very small island,1,Jamaica,303,-77.137881,17.830234
+304,Point,Jamaica,JAM,North America,Small island,2,Jamaica,304,-77.059561,17.876682
+305,Point,Japan,JPN,Asia,Very small island,1,Japan,305,136.551509,34.245273
+306,Point,Japan,JPN,Asia,Primary land,5,Japan,306,139.269655,36.669956
+307,Point,Japan,JPN,Asia,Small island,2,Japan,307,130.522222,30.339193
+308,Point,Japan,JPN,Asia,Medium island,3,Japan,308,127.95968,26.493715
+309,Point,Jersey,JEY,Europe,Very small island,1,United Kingdom,309,-2.126265,49.174912
+310,Point,Jersey,JEY,Europe,Small island,2,United Kingdom,310,-2.132416,49.224753
+311,Point,Jordan,JOR,Asia,Primary land,5,Jordan,311,37.129449,30.658539
+312,Point,Kazakhstan,KAZ,Asia,Primary land,5,Kazakhstan,312,67.334931,48.442913
+313,Point,Kazakhstan,KAZ,Asia,Very small island,1,Kazakhstan,313,50.439503,46.838589
+314,Point,Kazakhstan,KAZ,Asia,Small island,2,Kazakhstan,314,49.811907,46.270946
+315,Point,Kenya,KEN,Africa,Very small island,1,Kenya,315,40.989226,-2.230763
+316,Point,Kenya,KEN,Africa,Small island,2,Kenya,316,41.063793,-2.111873
+317,Point,Kenya,KEN,Africa,Primary land,5,Kenya,317,37.859705,0.536271
+318,Point,Kiribati,KIR,Oceania,Very small island,1,Kiribati,318,174.896528,-1.373756
+319,Point,Kiribati,KIR,Oceania,Primary land,5,Kiribati,319,173.021326,0.906379
+320,Point,Kiribati,KIR,Oceania,Small island,2,Kiribati,320,-157.363011,1.8845
+321,Point,Kuwait,KWT,Asia,Small island,2,Kuwait,321,48.072386,29.994205
+322,Point,Kuwait,KWT,Asia,Medium island,3,Kuwait,322,48.199792,29.748235
+323,Point,Kuwait,KWT,Asia,Primary land,5,Kuwait,323,47.492225,29.539506
+324,Point,Kuwait,KWT,Asia,Very small island,1,Kuwait,324,47.799615,29.380629
+325,Point,Kyrgyzstan,KGZ,Asia,Primary land,5,Kyrgyzstan,325,74.56386,41.482254
+326,Point,Laos,LAO,Asia,Primary land,5,Lao People's Democratic Republic,326,101.97248,20.287214
+327,Point,Latvia,LVA,Europe,Primary land,5,Latvia,327,26.423717,56.652652
+328,Point,Latvia,LVA,Europe,Very small island,1,Latvia,328,20.970171,56.524861
+329,Point,Latvia,LVA,Europe,Small island,2,Latvia,329,23.990071,57.025228
+330,Point,Lebanon,LBN,Asia,Very small island,1,Lebanon,330,35.773852,34.493449
+331,Point,Lebanon,LBN,Asia,Primary land,5,Lebanon,331,35.893255,33.923414
+332,Point,Lesotho,LSO,Africa,Primary land,5,Lesotho,332,28.245785,-29.586068
+333,Point,Liberia,LBR,Africa,Primary land,5,Liberia,333,-9.309819,6.451185
+334,Point,Liberia,LBR,Africa,Very small island,1,Liberia,334,-10.36076,6.132381
+335,Point,Liberia,LBR,Africa,Small island,2,Liberia,335,-11.318622,6.743599
+336,Point,Libya,LBY,Africa,Small island,2,Libya,336,23.282238,32.231056
+337,Point,Libya,LBY,Africa,Primary land,5,Libya,337,17.997397,27.165591
+338,Point,Libya,LBY,Africa,Very small island,1,Libya,338,23.235357,32.374422
+339,Point,Liechtenstein,LIE,Europe,Primary land,5,Liechtenstein,339,9.552569,47.14156
+340,Point,Lithuania,LTU,Europe,Very small island,1,Lithuania,340,21.13817,55.657765
+341,Point,Lithuania,LTU,Europe,Primary land,5,Lithuania,341,23.902717,55.350586
+342,Point,Lithuania,LTU,Europe,Small island,2,Lithuania,342,21.325298,55.311308
+343,Point,Luxembourg,LUX,Europe,Primary land,5,Luxembourg,343,6.0922,49.778126
+344,Point,Madagascar,MDG,Africa,Very small island,1,Madagascar,344,44.223066,-25.223909
+345,Point,Madagascar,MDG,Africa,Small island,2,Madagascar,345,48.265655,-13.323743
+346,Point,Madagascar,MDG,Africa,Primary land,5,Madagascar,346,46.678886,-19.478889
+347,Point,Madeira,PRT,Africa,Very small island,1,Portugal,347,-16.049527,30.032966
+348,Point,Madeira,PRT,Africa,Small island,2,Portugal,348,-16.34378,33.074104
+349,Point,Madeira,PRT,Africa,Medium island,3,Portugal,349,-16.972343,32.736546
+350,Point,Malawi,MWI,Africa,Primary land,5,Malawi,350,33.483055,-13.413075
+351,Point,Malaysia,MYS,Asia,Medium island,3,Malaysia,351,111.511891,2.623316
+352,Point,Malaysia,MYS,Asia,Primary land,5,Malaysia,352,114.403953,2.892821
+353,Point,Malaysia,MYS,Asia,Small island,2,Malaysia,353,111.341471,2.582478
+354,Point,Malaysia,MYS,Asia,Very small island,1,Malaysia,354,118.333323,4.642383
+355,Point,Maldives,MDV,Asia,Very small island,1,Maldives,355,72.889615,3.056276
+356,Point,Maldives,MDV,Asia,Small island,2,Maldives,356,73.544911,1.926327
+357,Point,Maldives,MDV,Asia,Primary land,5,Maldives,357,73.386725,4.015017
+358,Point,Mali,MLI,Africa,Primary land,5,Mali,358,-3.495907,17.458264
+359,Point,Malta,MLT,Europe,Very small island,1,Malta,359,14.402511,35.96539
+360,Point,Malta,MLT,Europe,Small island,2,Malta,360,14.439681,35.888407
+361,Point,Marshall Islands,MHL,Oceania,Small island,2,Marshall Islands,361,171.295164,7.068892
+362,Point,Marshall Islands,MHL,Oceania,Very small island,1,Marshall Islands,362,169.983868,10.25684
+363,Point,Martinique,MTQ,North America,Medium island,3,France,363,-60.913801,14.566185
+364,Point,Martinique,MTQ,North America,Very small island,1,France,364,-60.855736,14.611837
+365,Point,Martinique,MTQ,North America,Small island,2,France,365,-60.888539,14.693678
+366,Point,Mauritania,MRT,Africa,Small island,2,Mauritania,366,-16.408577,19.735667
+367,Point,Mauritania,MRT,Africa,Primary land,5,Mauritania,367,-10.319998,20.346529
+368,Point,Mauritania,MRT,Africa,Very small island,1,Mauritania,368,-16.457955,20.627958
+369,Point,Mauritius,MUS,Africa,Very small island,1,Mauritius,369,63.361957,-19.771066
+370,Point,Mauritius,MUS,Africa,Small island,2,Mauritius,370,63.421348,-19.716824
+371,Point,Mauritius,MUS,Africa,Primary land,5,Mauritius,371,57.572011,-20.283831
+372,Point,Mayotte,MYT,Africa,Very small island,1,France,372,45.11479,-12.675323
+373,Point,Mayotte,MYT,Africa,Small island,2,France,373,45.14401,-12.82414
+374,Point,Mexico,MEX,North America,Very small island,1,Mexico,374,-97.486904,25.372685
+375,Point,Mexico,MEX,North America,Medium island,3,Mexico,375,-112.366823,28.987673
+376,Point,Mexico,MEX,North America,Primary land,5,Mexico,376,-102.71374,24.190453
+377,Point,Mexico,MEX,North America,Small island,2,Mexico,377,-86.902401,20.442298
+378,Point,Micronesia,FSM,Oceania,Very small island,1,"Micronesia, Federated States of",378,140.406458,8.124573
+379,Point,Micronesia,FSM,Oceania,Small island,2,"Micronesia, Federated States of",379,158.227326,6.880237
+380,Point,Moldova,MDA,Europe,Primary land,5,"Moldova, Republic of",380,28.460634,47.21685
+381,Point,Monaco,MCO,Europe,Primary land,5,Monaco,381,7.415962,43.732389
+382,Point,Mongolia,MNG,Asia,Primary land,5,Mongolia,382,103.032222,46.973063
+383,Point,Montenegro,MNE,Europe,Small island,2,Montenegro,383,18.852128,42.265429
+384,Point,Montenegro,MNE,Europe,Very small island,1,Montenegro,384,18.691692,42.410829
+385,Point,Montenegro,MNE,Europe,Primary land,5,Montenegro,385,19.252224,42.788938
+386,Point,Montserrat,MSR,North America,Small island,2,United Kingdom,386,-62.189612,16.739332
+387,Point,Morocco,MAR,Africa,Very small island,1,Morocco,387,-6.279442,34.863041
+388,Point,Morocco,MAR,Africa,Small island,2,Morocco,388,-9.786638,31.496942
+389,Point,Morocco,MAR,Africa,Primary land,5,Morocco,389,-5.024864,32.780208
+390,Point,Mozambique,MOZ,Africa,Small island,2,Mozambique,390,36.329074,-18.684362
+391,Point,Mozambique,MOZ,Africa,Very small island,1,Mozambique,391,40.492167,-15.56646
+392,Point,Mozambique,MOZ,Africa,Primary land,5,Mozambique,392,38.181222,-14.300407
+393,Point,Myanmar,MMR,Asia,Small island,2,Myanmar,393,93.637895,18.797911
+394,Point,Myanmar,MMR,Asia,Very small island,1,Myanmar,394,96.877205,16.959303
+395,Point,Myanmar,MMR,Asia,Medium island,3,Myanmar,395,95.507784,16.053786
+396,Point,Myanmar,MMR,Asia,Primary land,5,Myanmar,396,96.533081,21.417306
+397,Point,Namibia,NAM,Africa,Primary land,5,Namibia,397,17.229413,-22.254074
+398,Point,Namibia,NAM,Africa,Very small island,1,Namibia,398,15.15417,-26.617514
+399,Point,Namibia,NAM,Africa,Small island,2,Namibia,399,15.194779,-27.01426
+400,Point,Nauru,NRU,Oceania,Primary land,5,Nauru,400,166.9345,-0.528643
+401,Point,Nepal,NPL,Asia,Primary land,5,Nepal,401,83.930705,28.271019
+402,Point,Netherlands,NLD,Europe,Primary land,5,Netherlands,402,5.794757,52.324139
+403,Point,Netherlands,NLD,Europe,Very small island,1,Netherlands,403,4.766689,51.746227
+404,Point,Netherlands,NLD,Europe,Small island,2,Netherlands,404,4.460447,51.770973
+405,Point,New Caledonia,NCL,Oceania,Medium island,3,France,405,167.233088,-20.943542
+406,Point,New Caledonia,NCL,Oceania,Small island,2,France,406,167.475859,-22.607243
+407,Point,New Caledonia,NCL,Oceania,Very small island,1,France,407,167.535932,-22.64176
+408,Point,New Caledonia,NCL,Oceania,Primary land,5,France,408,165.514346,-21.411391
+409,Point,New Zealand,NZL,Oceania,Primary land,5,New Zealand,409,170.44079,-44.044526
+410,Point,New Zealand,NZL,Oceania,Medium island,3,New Zealand,410,167.838193,-46.944534
+411,Point,New Zealand,NZL,Oceania,Small island,2,New Zealand,411,166.653773,-45.669254
+412,Point,New Zealand,NZL,Oceania,Very small island,1,New Zealand,412,166.854082,-45.637495
+413,Point,Nicaragua,NIC,North America,Primary land,5,Nicaragua,413,-85.042675,12.848401
+414,Point,Nicaragua,NIC,North America,Small island,2,Nicaragua,414,-82.767322,14.382307
+415,Point,Nicaragua,NIC,North America,Very small island,1,Nicaragua,415,-83.556186,12.895428
+416,Point,Niger,NER,Africa,Primary land,5,Niger,416,9.428654,17.477463
+417,Point,Nigeria,NGA,Africa,Medium island,3,Nigeria,417,5.638602,5.255674
+418,Point,Nigeria,NGA,Africa,Primary land,5,Nigeria,418,8.137012,9.683992
+419,Point,Nigeria,NGA,Africa,Very small island,1,Nigeria,419,7.3982,4.540388
+420,Point,Nigeria,NGA,Africa,Small island,2,Nigeria,420,5.688188,5.089439
+421,Point,Niue,NIU,Oceania,Small island,2,New Zealand,421,-169.858555,-19.052548
+422,Point,Norfolk Island,NFK,Oceania,Very small island,1,Australia,422,167.964044,-29.072676
+423,Point,Norfolk Island,NFK,Oceania,Small island,2,Australia,423,167.952291,-29.03266
+424,Point,North Korea,PRK,Asia,Very small island,1,"Korea, Democratic People's Republic of",424,125.542849,38.812171
+425,Point,North Korea,PRK,Asia,Small island,2,"Korea, Democratic People's Republic of",425,124.881349,39.558602
+426,Point,North Korea,PRK,Asia,Primary land,5,"Korea, Democratic People's Republic of",426,127.190976,40.176208
+427,Point,North Macedonia,MKD,Europe,Primary land,5,North Macedonia,427,21.701679,41.603451
+428,Point,Northern Mariana Islands,MNP,Oceania,Small island,2,United States,428,145.75349,15.188796
+429,Point,Northern Mariana Islands,MNP,Oceania,Primary land,5,United States,429,145.832853,17.59975
+430,Point,Northern Mariana Islands,MNP,Oceania,Very small island,1,United States,430,145.712298,15.241421
+431,Point,Norway,NOR,Europe,Primary land,5,Norway,431,24.510622,69.698088
+432,Point,Norway,NOR,Europe,Small island,2,Norway,432,18.41922,80.304537
+433,Point,Norway,NOR,Europe,Medium island,3,Norway,433,21.333399,78.415252
+434,Point,Norway,NOR,Europe,Very small island,1,Norway,434,23.60148,80.174492
+435,Point,Oman,OMN,Asia,Small island,2,Oman,435,56.024354,17.508855
+436,Point,Oman,OMN,Asia,Very small island,1,Oman,436,54.800794,16.940782
+437,Point,Oman,OMN,Asia,Medium island,3,Oman,437,58.708662,20.316836
+438,Point,Oman,OMN,Asia,Primary land,5,Oman,438,57.878717,22.000843
+439,Point,Pakistan,PAK,Asia,Primary land,5,Pakistan,439,69.470777,30.149095
+440,Point,Pakistan,PAK,Asia,Very small island,1,Pakistan,440,67.296083,24.588014
+441,Point,Pakistan,PAK,Asia,Small island,2,Pakistan,441,67.799284,23.89081
+442,Point,Palau,PLW,Oceania,Primary land,5,Palau,442,134.565218,7.499462
+443,Point,Palau,PLW,Oceania,Very small island,1,Palau,443,134.369331,7.194217
+444,Point,Palau,PLW,Oceania,Small island,2,Palau,444,134.396014,7.244617
+445,Point,Palestinian Territory,PSE,Asia,Primary land,5,"Palestine, State of",445,35.255221,31.943784
+446,Point,Panama,PAN,North America,Small island,2,Panama,446,-81.75727,7.470766
+447,Point,Panama,PAN,North America,Very small island,1,Panama,447,-79.535092,8.777028
+448,Point,Panama,PAN,North America,Primary land,5,Panama,448,-81.268105,8.452859
+449,Point,Papua New Guinea,PNG,Asia,Very small island,1,Papua New Guinea,449,150.581133,-8.330894
+450,Point,Papua New Guinea,PNG,Asia,Primary land,5,Papua New Guinea,450,144.271385,-6.614516
+451,Point,Papua New Guinea,PNG,Asia,Small island,2,Papua New Guinea,451,154.626699,-5.221762
+452,Point,Papua New Guinea,PNG,Asia,Medium island,3,Papua New Guinea,452,155.643827,-6.539535
+453,Point,Paraguay,PRY,South America,Primary land,5,Paraguay,453,-58.383729,-23.272757
+454,Point,Peru,PER,South America,Very small island,1,Peru,454,-76.201357,-13.634959
+455,Point,Peru,PER,South America,Primary land,5,Peru,455,-71.820374,-13.618397
+456,Point,Peru,PER,South America,Small island,2,Peru,456,-80.855368,-6.436785
+457,Point,Peter I Island,ATA,Antarctica,Small island,2,Norway,457,-90.589578,-68.808311
+458,Point,Philippines,PHL,Asia,Primary land,5,Philippines,458,120.86186,14.164682
+459,Point,Philippines,PHL,Asia,Medium island,3,Philippines,459,123.717713,10.313904
+460,Point,Philippines,PHL,Asia,Very small island,1,Philippines,460,120.436528,17.533611
+461,Point,Philippines,PHL,Asia,Small island,2,Philippines,461,122.612251,10.57298
+462,Point,Pitcairn,PCN,Oceania,Small island,2,United Kingdom,462,-128.322792,-24.37681
+463,Point,Pitcairn,PCN,Oceania,Very small island,1,United Kingdom,463,-124.784322,-24.687486
+464,Point,Poland,POL,Europe,Primary land,5,Poland,464,19.134369,51.799392
+465,Point,Poland,POL,Europe,Very small island,1,Poland,465,14.622185,53.538238
+466,Point,Poland,POL,Europe,Small island,2,Poland,466,14.533963,53.917581
+467,Point,Portugal,PRT,Europe,Very small island,1,Portugal,467,-8.761009,38.510268
+468,Point,Portugal,PRT,Europe,Small island,2,Portugal,468,-7.92421,36.984577
+469,Point,Portugal,PRT,Europe,Primary land,5,Portugal,469,-7.958793,39.726586
+470,Point,Puerto Rico,PRI,North America,Primary land,5,United States,470,-66.47944,18.224829
+471,Point,Puerto Rico,PRI,North America,Very small island,1,United States,471,-67.109052,17.918195
+472,Point,Puerto Rico,PRI,North America,Small island,2,United States,472,-65.441383,18.123314
+473,Point,Qatar,QAT,Asia,Small island,2,Qatar,473,51.558728,25.362753
+474,Point,Qatar,QAT,Asia,Very small island,1,Qatar,474,51.290537,26.143322
+475,Point,Qatar,QAT,Asia,Primary land,5,Qatar,475,51.192761,25.287261
+476,Point,Réunion,REU,Africa,Medium island,3,France,476,55.53268,-21.133474
+477,Point,Romania,ROU,Europe,Very small island,1,Romania,477,28.69021,44.129329
+478,Point,Romania,ROU,Europe,Small island,2,Romania,478,29.415596,45.422769
+479,Point,Romania,ROU,Europe,Primary land,5,Romania,479,24.933256,45.880445
+480,Point,Russian Federation,RUS,Asia,Small island,2,Russian Federation,480,20.102926,54.649284
+481,Point,Russian Federation,RUS,Europe,Primary land,5,Russian Federation,481,21.45609,54.708087
+482,Point,Russian Federation,RUS,Asia,Very small island,1,Russian Federation,482,95.037125,81.20008
+483,Point,Russian Federation,RUS,Asia,Medium island,3,Russian Federation,483,63.964757,80.821389
+484,Point,Russian Federation,RUS,Asia,Very small island,1,Russian Federation,484,20.358893,54.687155
+485,Point,Russian Federation,RUS,Asia,Primary land,5,Russian Federation,485,103.661622,61.146759
+486,Point,Russian Federation,RUS,Asia,Small island,2,Russian Federation,486,91.609673,79.695597
+487,Point,Russian Federation,RUS,Asia,Large island,4,Russian Federation,487,102.491973,78.642088
+488,Point,Rwanda,RWA,Africa,Primary land,5,Rwanda,488,29.925845,-1.999524
+489,Point,Saba,BES,North America,Small island,2,Netherlands,489,-63.237515,17.631364
+490,Point,Saint Barthelemy,BLM,North America,Small island,2,France,490,-62.832894,17.895607
+491,Point,Saint Barthelemy,BLM,North America,Very small island,1,France,491,-62.851167,17.93344
+492,Point,Saint Eustatius,BES,North America,Small island,2,Netherlands,492,-62.976254,17.490831
+493,Point,Saint Helena,SHN,Africa,Very small island,1,United Kingdom,493,-12.479727,-37.411311
+494,Point,Saint Helena,SHN,Africa,Small island,2,United Kingdom,494,-12.28509,-37.112685
+495,Point,Saint Kitts and Nevis,KNA,North America,Small island,2,Saint Kitts and Nevis,495,-62.764913,17.338958
+496,Point,Saint Kitts and Nevis,KNA,North America,Very small island,1,Saint Kitts and Nevis,496,-62.610337,17.22662
+497,Point,Saint Lucia,LCA,North America,Very small island,1,Saint Lucia,497,-60.931522,13.723946
+498,Point,Saint Lucia,LCA,North America,Primary land,5,Saint Lucia,498,-60.966728,13.898354
+499,Point,Saint Martin,MAF,North America,Primary land,5,France,499,-63.045144,18.08763
+500,Point,Saint Martin,MAF,North America,Very small island,1,France,500,-63.014256,18.106375
+501,Point,Saint Martin,MAF,North America,Small island,2,France,501,-62.979231,18.119344
+502,Point,Saint Pierre and Miquelon,SPM,North America,Very small island,1,France,502,-56.129878,46.78986
+503,Point,Saint Pierre and Miquelon,SPM,North America,Small island,2,France,503,-56.321466,46.854202
+504,Point,Saint Vincent and the Grenadines,VCT,North America,Very small island,1,Saint Vincent and the Grenadines,504,-61.396176,12.58634
+505,Point,Saint Vincent and the Grenadines,VCT,North America,Primary land,5,Saint Vincent and the Grenadines,505,-61.18895,13.251275
+506,Point,Saint Vincent and the Grenadines,VCT,North America,Small island,2,Saint Vincent and the Grenadines,506,-61.232604,13.011744
+507,Point,Samoa,WSM,Oceania,Primary land,5,Samoa,507,-172.447355,-13.620976
+508,Point,Samoa,WSM,Oceania,Small island,2,Samoa,508,-172.110332,-13.849956
+509,Point,Samoa,WSM,Oceania,Very small island,1,Samoa,509,-171.410005,-14.073303
+510,Point,San Marino,SMR,Europe,Primary land,5,San Marino,510,12.462582,43.938744
+511,Point,Sao Tome and Principe,STP,Africa,Primary land,5,São Tomé and Príncipe,511,6.60241,0.238965
+512,Point,Sao Tome and Principe,STP,Africa,Very small island,1,São Tomé and Príncipe,512,7.430052,1.513608
+513,Point,Sao Tome and Principe,STP,Africa,Small island,2,São Tomé and Príncipe,513,7.397209,1.615223
+514,Point,Saudi Arabia,SAU,Asia,Small island,2,Saudi Arabia,514,41.975006,16.703058
+515,Point,Saudi Arabia,SAU,Asia,Primary land,5,Saudi Arabia,515,44.487542,24.279335
+516,Point,Saudi Arabia,SAU,Asia,Very small island,1,Saudi Arabia,516,37.17157,25.189987
+517,Point,Senegal,SEN,Africa,Primary land,5,Senegal,517,-14.447596,14.379851
+518,Point,Senegal,SEN,Africa,Small island,2,Senegal,518,-16.57987,13.921767
+519,Point,Senegal,SEN,Africa,Very small island,1,Senegal,519,-16.594422,14.027721
+520,Point,Serbia,SRB,Europe,Primary land,5,Serbia,520,20.797999,44.058411
+521,Point,Seychelles,SYC,Africa,Primary land,5,Seychelles,521,55.467321,-4.678696
+522,Point,Seychelles,SYC,Africa,Small island,2,Seychelles,522,46.445674,-9.438109
+523,Point,Seychelles,SYC,Africa,Very small island,1,Seychelles,523,46.457955,-9.394223
+524,Point,Sierra Leone,SLE,Africa,Small island,2,Sierra Leone,524,-12.544209,7.579933
+525,Point,Sierra Leone,SLE,Africa,Primary land,5,Sierra Leone,525,-11.779444,8.571913
+526,Point,Sierra Leone,SLE,Africa,Very small island,1,Sierra Leone,526,-12.47798,7.546245
+527,Point,Singapore,SGP,Asia,Very small island,1,Singapore,527,103.923239,1.409511
+528,Point,Singapore,SGP,Asia,Small island,2,Singapore,528,103.718335,1.277232
+529,Point,Singapore,SGP,Asia,Primary land,5,Singapore,529,103.809038,1.355941
+530,Point,Sint Maarten,SXM,North America,Primary land,5,Netherlands,530,-63.063165,18.038715
+531,Point,Sint Maarten,SXM,North America,Very small island,1,Netherlands,531,-63.018556,18.017605
+532,Point,Slovakia,SVK,Europe,Primary land,5,Slovakia,532,19.490301,48.712415
+533,Point,Slovenia,SVN,Europe,Primary land,5,Slovenia,533,14.824335,46.122545
+534,Point,Solomon Islands,SLB,Oceania,Medium island,3,Solomon Islands,534,159.169868,-8.020046
+535,Point,Solomon Islands,SLB,Oceania,Small island,2,Solomon Islands,535,166.048586,-10.717985
+536,Point,Solomon Islands,SLB,Oceania,Primary land,5,Solomon Islands,536,160.160313,-9.622933
+537,Point,Solomon Islands,SLB,Oceania,Very small island,1,Solomon Islands,537,158.020954,-8.533374
+538,Point,Somalia,SOM,Africa,Primary land,5,Somalia,538,46.203805,4.40948
+539,Point,Somalia,SOM,Africa,Very small island,1,Somalia,539,42.216795,-0.811299
+540,Point,Somalia,SOM,Africa,Small island,2,Somalia,540,43.462877,11.435246
+541,Point,South Africa,ZAF,Africa,Very small island,1,South Africa,541,19.417333,-34.683055
+542,Point,South Africa,ZAF,Africa,Small island,2,South Africa,542,37.740763,-46.906724
+543,Point,South Africa,ZAF,Africa,Primary land,5,South Africa,543,24.672466,-30.087977
+544,Point,South Georgia and the South Sandwich Islands,SGS,Antarctica,Very small island,1,United Kingdom,544,-34.734092,-55.036174
+545,Point,South Georgia and the South Sandwich Islands,SGS,Antarctica,Medium island,3,United Kingdom,545,-36.906468,-54.217458
+546,Point,South Georgia and the South Sandwich Islands,SGS,Antarctica,Small island,2,United Kingdom,546,-26.371107,-58.452393
+547,Point,South Korea,KOR,Asia,Very small island,1,"Korea, Republic of",547,125.575593,36.6168
+548,Point,South Korea,KOR,Asia,Small island,2,"Korea, Republic of",548,128.625967,34.866543
+549,Point,South Korea,KOR,Asia,Primary land,5,"Korea, Republic of",549,128.71616,36.575678
+550,Point,South Sudan,SSD,Africa,Primary land,5,South Sudan,550,30.347453,7.291111
+551,Point,Spain,ESP,Europe,Small island,2,Spain,551,1.431386,38.708187
+552,Point,Spain,ESP,Europe,Very small island,1,Spain,552,-9.185432,42.880246
+553,Point,Spain,ESP,Europe,Medium island,3,Spain,553,2.956713,39.6138
+554,Point,Spain,ESP,Europe,Primary land,5,Spain,554,-3.549563,40.473146
+555,Point,Spain,ESP,Africa,Very small island,1,Spain,555,-2.440916,35.178588
+556,Point,Spain,ESP,Africa,Primary land,5,Spain,556,-5.356162,35.892214
+557,Point,Sri Lanka,LKA,Asia,Very small island,1,Sri Lanka,557,81.701576,7.652012
+558,Point,Sri Lanka,LKA,Asia,Medium island,3,Sri Lanka,558,80.248047,9.723813
+559,Point,Sri Lanka,LKA,Asia,Small island,2,Sri Lanka,559,79.689975,9.512457
+560,Point,Sri Lanka,LKA,Asia,Primary land,5,Sri Lanka,560,80.708872,7.583346
+561,Point,Sudan,SDN,Africa,Small island,2,Sudan,561,37.266486,20.80558
+562,Point,Sudan,SDN,Africa,Very small island,1,Sudan,562,37.664527,18.779762
+563,Point,Sudan,SDN,Africa,Primary land,5,Sudan,563,30.021957,16.140895
+564,Point,Suriname,SUR,South America,Small island,2,Suriname,564,-57.105555,5.855541
+565,Point,Suriname,SUR,South America,Primary land,5,Suriname,565,-55.906972,4.136874
+566,Point,Suriname,SUR,South America,Very small island,1,Suriname,566,-57.141969,5.825115
+567,Point,Sweden,SWE,Europe,Medium island,3,Sweden,567,18.510739,57.489158
+568,Point,Sweden,SWE,Europe,Very small island,1,Sweden,568,22.479593,65.767986
+569,Point,Sweden,SWE,Europe,Small island,2,Sweden,569,11.631136,58.015517
+570,Point,Sweden,SWE,Europe,Primary land,5,Sweden,570,16.993673,63.452412
+571,Point,Switzerland,CHE,Europe,Primary land,5,Switzerland,571,8.222167,46.973013
+572,Point,Syria,SYR,Asia,Very small island,1,Syrian Arab Republic,572,35.859,34.856138
+573,Point,Syria,SYR,Asia,Primary land,5,Syrian Arab Republic,573,38.507341,35.041639
+574,Point,Tajikistan,TJK,Asia,Primary land,5,Tajikistan,574,69.294201,38.443089
+575,Point,Tanzania,TZA,Africa,Primary land,5,"Tanzania, United Republic of",575,34.80887,-6.285391
+576,Point,Tanzania,TZA,Africa,Small island,2,"Tanzania, United Republic of",576,39.772948,-7.855338
+577,Point,Tanzania,TZA,Africa,Very small island,1,"Tanzania, United Republic of",577,39.352726,-6.357021
+578,Point,Thailand,THA,Asia,Small island,2,Thailand,578,98.3441,7.972905
+579,Point,Thailand,THA,Asia,Very small island,1,Thailand,579,100.714099,7.024688
+580,Point,Thailand,THA,Asia,Primary land,5,Thailand,580,101.02188,15.225166
+581,Point,Timor-Leste,TLS,Asia,Very small island,1,Timor-Leste,581,125.841603,-8.477976
+582,Point,Timor-Leste,TLS,Asia,Primary land,5,Timor-Leste,582,125.945564,-8.797505
+583,Point,Timor-Leste,TLS,Asia,Small island,2,Timor-Leste,583,125.577536,-8.229938
+584,Point,Togo,TGO,Africa,Primary land,5,Togo,584,0.975135,8.541338
+585,Point,Tokelau,TKL,Oceania,Small island,2,New Zealand,585,-171.784007,-9.165742
+586,Point,Tokelau,TKL,Oceania,Very small island,1,New Zealand,586,-171.781651,-9.105756
+587,Point,Tonga,TON,Oceania,Small island,2,Tonga,587,-175.275246,-21.159336
+588,Point,Tonga,TON,Oceania,Very small island,1,Tonga,588,-173.956388,-18.673404
+589,Point,Trinidad and Tobago,TTO,South America,Very small island,1,Trinidad and Tobago,589,-60.519586,11.299714
+590,Point,Trinidad and Tobago,TTO,South America,Primary land,5,Trinidad and Tobago,590,-61.296374,10.424091
+591,Point,Trinidad and Tobago,TTO,South America,Small island,2,Trinidad and Tobago,591,-60.666251,11.241363
+592,Point,Tunisia,TUN,Africa,Small island,2,Tunisia,592,10.87935,33.792436
+593,Point,Tunisia,TUN,Africa,Primary land,5,Tunisia,593,9.569856,34.161836
+594,Point,Tunisia,TUN,Africa,Very small island,1,Tunisia,594,10.195642,37.082561
+595,Point,Turkiye,TUR,Asia,Small island,2,Turkiye,595,25.840088,40.161405
+596,Point,Turkiye,TUR,Asia,Primary land,5,Turkiye,596,35.438087,39.028255
+597,Point,Turkiye,TUR,Asia,Very small island,1,Turkiye,597,26.736035,40.615432
+598,Point,Turkmenistan,TKM,Asia,Primary land,5,Turkmenistan,598,59.378357,39.16253
+599,Point,Turkmenistan,TKM,Asia,Small island,2,Turkmenistan,599,53.050908,38.951359
+600,Point,Turkmenistan,TKM,Asia,Very small island,1,Turkmenistan,600,54.314498,40.982109
+601,Point,Turks and Caicos Islands,TCA,North America,Very small island,1,United Kingdom,601,-71.848184,21.866144
+602,Point,Turks and Caicos Islands,TCA,North America,Small island,2,United Kingdom,602,-71.757842,21.775177
+603,Point,Tuvalu,TUV,Oceania,Small island,2,Tuvalu,603,178.671188,-7.47021
+604,Point,Tuvalu,TUV,Oceania,Very small island,1,Tuvalu,604,179.473099,-10.789013
+605,Point,Uganda,UGA,Africa,Primary land,5,Uganda,605,32.390207,1.280718
+606,Point,Ukraine,UKR,Europe,Small island,2,Ukraine,606,29.696177,45.393049
+607,Point,Ukraine,UKR,Europe,Very small island,1,Ukraine,607,33.260188,46.75819
+608,Point,Ukraine,UKR,Europe,Primary land,5,Ukraine,608,31.357996,49.097671
+609,Point,United Arab Emirates,ARE,Asia,Very small island,1,United Arab Emirates,609,53.420485,24.389335
+610,Point,United Arab Emirates,ARE,Asia,Primary land,5,United Arab Emirates,610,53.978402,23.464871
+611,Point,United Arab Emirates,ARE,Asia,Small island,2,United Arab Emirates,611,53.797848,24.188334
+612,Point,United Kingdom,GBR,Europe,Small island,2,United Kingdom,612,-7.286684,57.599693
+613,Point,United Kingdom,GBR,Europe,Very small island,1,United Kingdom,613,-1.268425,60.498139
+614,Point,United Kingdom,GBR,Europe,Primary land,5,United Kingdom,614,-0.234006,52.268903
+615,Point,United Kingdom,GBR,Europe,Medium island,3,United Kingdom,615,-6.657195,58.133996
+616,Point,United States,USA,North America,Primary land,5,United States,616,-99.706282,40.029014
+617,Point,United States,USA,North America,Small island,2,United States,617,-165.80201,61.381431
+618,Point,United States,USA,North America,Large island,4,United States,618,-153.547409,57.43495
+619,Point,United States,USA,North America,Very small island,1,United States,619,-147.526134,70.396428
+620,Point,United States Minor Outlying Islands,UMI,North America,Very small island,1,United States,620,-162.043839,5.878827
+621,Point,United States Minor Outlying Islands,UMI,North America,Primary land,5,United States,621,-159.997742,-0.373198
+622,Point,United States Minor Outlying Islands,UMI,North America,Small island,2,United States,622,166.644299,19.2825
+623,Point,Uruguay,URY,South America,Small island,2,Uruguay,623,-58.106098,-32.986879
+624,Point,Uruguay,URY,South America,Very small island,1,Uruguay,624,-55.925868,-34.942088
+625,Point,Uruguay,URY,South America,Primary land,5,Uruguay,625,-56.011005,-32.815798
+626,Point,US Virgin Islands,VIR,North America,Small island,2,United States,626,-64.818794,17.72804
+627,Point,US Virgin Islands,VIR,North America,Primary land,5,United States,627,-64.884455,18.332034
+628,Point,US Virgin Islands,VIR,North America,Very small island,1,United States,628,-64.932509,18.326643
+629,Point,Uzbekistan,UZB,Asia,Primary land,5,Uzbekistan,629,63.052064,41.840705
+630,Point,Vanuatu,VUT,Oceania,Medium island,3,Vanuatu,630,167.47757,-16.265593
+631,Point,Vanuatu,VUT,Oceania,Primary land,5,Vanuatu,631,166.872891,-15.241653
+632,Point,Vanuatu,VUT,Oceania,Small island,2,Vanuatu,632,169.362885,-19.543209
+633,Point,Vanuatu,VUT,Oceania,Very small island,1,Vanuatu,633,167.797091,-14.319976
+634,Point,Vatican City,VAT,Europe,Primary land,5,Holy See (Vatican City State),634,12.45292,41.903544
+635,Point,Venezuela,VEN,South America,Primary land,5,"Venezuela, Bolivarian Republic of",635,-66.242057,7.106061
+636,Point,Venezuela,VEN,South America,Small island,2,"Venezuela, Bolivarian Republic of",636,-62.231067,9.170545
+637,Point,Venezuela,VEN,South America,Very small island,1,"Venezuela, Bolivarian Republic of",637,-66.943537,11.820598
+638,Point,Venezuela,VEN,South America,Medium island,3,"Venezuela, Bolivarian Republic of",638,-64.249712,11.004954
+639,Point,Vietnam,VNM,Asia,Very small island,1,Viet Nam,639,107.303588,20.95392
+640,Point,Vietnam,VNM,Asia,Small island,2,Viet Nam,640,106.34079,20.214988
+641,Point,Vietnam,VNM,Asia,Primary land,5,Viet Nam,641,106.347027,17.493076
+642,Point,Vietnam,VNM,Asia,Medium island,3,Viet Nam,642,106.474271,10.161877
+643,Point,Wallis and Futuna,WLF,Oceania,Primary land,5,France,643,-178.133879,-14.283743
+644,Point,Wallis and Futuna,WLF,Oceania,Small island,2,France,644,-176.204682,-13.285367
+645,Point,Wallis and Futuna,WLF,Oceania,Very small island,1,France,645,-176.146251,-13.280654
+646,Point,Yemen,YEM,Asia,Primary land,5,Yemen,646,45.22599,15.237042
+647,Point,Yemen,YEM,Asia,Very small island,1,Yemen,647,42.567189,15.856574
+648,Point,Yemen,YEM,Asia,Small island,2,Yemen,648,52.31186,12.171076
+649,Point,Yemen,YEM,Asia,Medium island,3,Yemen,649,53.920328,12.489675
+650,Point,Zambia,ZMB,Africa,Primary land,5,Zambia,650,27.853704,-14.607846
+651,Point,Zimbabwe,ZWE,Africa,Primary land,5,Zimbabwe,651,29.872127,-19.023401
